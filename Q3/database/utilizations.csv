@@ -1,0 +1,31 @@
+strategy_synthesis,strategy_implementation,LUT_logic,LUT_memory,slice_registers_FF,block_RAM,IOB,BUFGCTRL
+Flow_AreaOptimized_high,Area_Explore,16.10,3.63,6.99,51.43,0.00,9.38
+Flow_AreaOptimized_high,Congestion_SSI_SpreadLogic_high,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_AreaOptimized_high,Flow_Quick,15.54,3.63,6.99,51.43,0.00,9.38
+Flow_AreaOptimized_high,Performance_Explore,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_AreaOptimized_high,Power_ExploreArea,16.88,3.62,6.97,51.43,0.00,9.38
+Flow_AreaOptimized_high,Vivado Implementation Defaults,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_PerfOptimized_high,Area_Explore,16.10,3.63,6.99,51.43,0.00,9.38
+Flow_PerfOptimized_high,Congestion_SSI_SpreadLogic_high,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_PerfOptimized_high,Flow_Quick,15.54,3.63,6.99,51.43,0.00,9.38
+Flow_PerfOptimized_high,Performance_Explore,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_PerfOptimized_high,Power_ExploreArea,16.88,3.62,6.97,51.43,0.00,9.38
+Flow_PerfOptimized_high,Vivado Implementation Defaults,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_PerfThresholdCarry,Area_Explore,16.10,3.63,6.99,51.43,0.00,9.38
+Flow_PerfThresholdCarry,Congestion_SSI_SpreadLogic_high,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_PerfThresholdCarry,Flow_Quick,15.54,3.63,6.99,51.43,0.00,9.38
+Flow_PerfThresholdCarry,Performance_Explore,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_PerfThresholdCarry,Power_ExploreArea,16.88,3.62,6.97,51.43,0.00,9.38
+Flow_PerfThresholdCarry,Vivado Implementation Defaults,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_RuntimeOptimized,Area_Explore,16.10,3.63,6.99,51.43,0.00,9.38
+Flow_RuntimeOptimized,Congestion_SSI_SpreadLogic_high,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_RuntimeOptimized,Flow_Quick,15.54,3.63,6.99,51.43,0.00,9.38
+Flow_RuntimeOptimized,Performance_Explore,15.59,3.63,6.99,51.43,0.00,9.38
+Flow_RuntimeOptimized,Power_ExploreArea,16.88,3.62,6.97,51.43,0.00,9.38
+Flow_RuntimeOptimized,Vivado Implementation Defaults,15.59,3.63,6.99,51.43,0.00,9.38
+Vivado Synthesis Defaults,Area_Explore,16.10,3.63,6.99,51.43,0.00,9.38
+Vivado Synthesis Defaults,Congestion_SSI_SpreadLogic_high,15.59,3.63,6.99,51.43,0.00,9.38
+Vivado Synthesis Defaults,Flow_Quick,15.54,3.63,6.99,51.43,0.00,9.38
+Vivado Synthesis Defaults,Performance_Explore,15.59,3.63,6.99,51.43,0.00,9.38
+Vivado Synthesis Defaults,Power_ExploreArea,16.88,3.62,6.97,51.43,0.00,9.38
+Vivado Synthesis Defaults,Vivado Implementation Defaults,15.59,3.63,6.99,51.43,0.00,9.38

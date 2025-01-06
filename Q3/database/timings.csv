@@ -1,0 +1,31 @@
+strategy_synthesis,strategy_implementation,WNS,TNS,TNS_endpoints_failing,TNS_endpoints_total,WPWS,TPWS,TPWS_endpoints_failing,TPWS_endpoints_total
+Flow_AreaOptimized_high,Area_Explore,0.278,0.000,0,23953,3.750,0.000,0,8663
+Flow_AreaOptimized_high,Congestion_SSI_SpreadLogic_high,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_AreaOptimized_high,Flow_Quick,-6.726,-791.937,784,23953,3.750,0.000,0,8663
+Flow_AreaOptimized_high,Performance_Explore,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_AreaOptimized_high,Power_ExploreArea,0.111,0.000,0,24197,3.750,0.000,0,8639
+Flow_AreaOptimized_high,Vivado Implementation Defaults,0.542,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfOptimized_high,Area_Explore,0.278,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfOptimized_high,Congestion_SSI_SpreadLogic_high,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfOptimized_high,Flow_Quick,-6.726,-791.937,784,23953,3.750,0.000,0,8663
+Flow_PerfOptimized_high,Performance_Explore,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfOptimized_high,Power_ExploreArea,0.111,0.000,0,24197,3.750,0.000,0,8639
+Flow_PerfOptimized_high,Vivado Implementation Defaults,0.542,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfThresholdCarry,Area_Explore,0.278,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfThresholdCarry,Congestion_SSI_SpreadLogic_high,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfThresholdCarry,Flow_Quick,-6.726,-791.937,784,23953,3.750,0.000,0,8663
+Flow_PerfThresholdCarry,Performance_Explore,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_PerfThresholdCarry,Power_ExploreArea,0.111,0.000,0,24197,3.750,0.000,0,8639
+Flow_PerfThresholdCarry,Vivado Implementation Defaults,0.542,0.000,0,23953,3.750,0.000,0,8663
+Flow_RuntimeOptimized,Area_Explore,0.278,0.000,0,23953,3.750,0.000,0,8663
+Flow_RuntimeOptimized,Congestion_SSI_SpreadLogic_high,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_RuntimeOptimized,Flow_Quick,-6.726,-791.937,784,23953,3.750,0.000,0,8663
+Flow_RuntimeOptimized,Performance_Explore,0.186,0.000,0,23953,3.750,0.000,0,8663
+Flow_RuntimeOptimized,Power_ExploreArea,0.111,0.000,0,24197,3.750,0.000,0,8639
+Flow_RuntimeOptimized,Vivado Implementation Defaults,0.542,0.000,0,23953,3.750,0.000,0,8663
+Vivado Synthesis Defaults,Area_Explore,0.278,0.000,0,23953,3.750,0.000,0,8663
+Vivado Synthesis Defaults,Congestion_SSI_SpreadLogic_high,0.186,0.000,0,23953,3.750,0.000,0,8663
+Vivado Synthesis Defaults,Flow_Quick,-6.726,-791.937,784,23953,3.750,0.000,0,8663
+Vivado Synthesis Defaults,Performance_Explore,0.186,0.000,0,23953,3.750,0.000,0,8663
+Vivado Synthesis Defaults,Power_ExploreArea,0.111,0.000,0,24197,3.750,0.000,0,8639
+Vivado Synthesis Defaults,Vivado Implementation Defaults,0.542,0.000,0,23953,3.750,0.000,0,8663
